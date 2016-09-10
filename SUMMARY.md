@@ -11,7 +11,7 @@
     * Android Studio 模块
 * [第二章 新建](新建.md)
     * 创建项目
-    * [创建模块](床架模块.md)
+    * [创建模块](创建模块.md)
     * [创建库](创建库.md)
     * 导入Android Studio项目
     * 导入eclipse项目
