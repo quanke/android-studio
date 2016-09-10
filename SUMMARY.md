@@ -97,6 +97,8 @@
     * [实现代理方法](实现代理方法.md)
     * [生成构造函数](生成构造函数.md)
     * [生成Getter和Setter方法](生成getter和setter方法.md)
+    * [覆写equals和hashcode方法](覆写equals和hashcode方法.md)
+    * 快速覆写toString方法
 * [第九章 检查](第九章-检查.md)
 * [第十章 重构](第十章-重构.md)
 * [第十一章 打包构建](第十一章-打包构建.md)
