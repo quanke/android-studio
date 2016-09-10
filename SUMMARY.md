@@ -8,7 +8,7 @@
     * [Linux 环境配置](linux-环境配置.md)
     * [版本更新](版本更新.md)
     * [Android Studio 项目结构](android-studio-项目结构.md)
-    * Android Studio 模块
+    * [Android Studio 模块](android-studio-模块.md)
 * [第二章 新建](新建.md)
     * 创建项目
     * [创建模块](创建模块.md)
