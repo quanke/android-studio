@@ -4,7 +4,7 @@
 * [第一章 Android Studio 入门](chapter1.md)
     * [下载](下载.md)
     * [Windows 环境配置](windows-环境配置.md)
-    * Mac OS 环境配置
+    * [Mac OS 环境配置](mac-os-环境配置.md)
     * Linux 环境配置
     * 版本更新
     * Android Studio 项目结构
