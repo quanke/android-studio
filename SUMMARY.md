@@ -219,7 +219,7 @@
 * [第十四章 版本控制](第十四章-版本控制.md)
     * Git偏好设置
     * [配置Github](配置github.md)
-    * 从Github克隆代码
+    * [从Github克隆代码](从github克隆代码.md)
     * 将本地项目共享到GitHub
     * 查看本地变更历史
     * Git添加文件
