@@ -7,7 +7,7 @@
     * [Mac OS 环境配置](mac-os-环境配置.md)
     * [Linux 环境配置](linux-环境配置.md)
     * [版本更新](版本更新.md)
-    * Android Studio 项目结构
+    * [Android Studio 项目结构](android-studio-项目结构.md)
     * Android Studio 模块
 * [第二章 新建](新建.md)
     * 创建项目
