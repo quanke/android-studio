@@ -5,7 +5,7 @@
     * [下载](下载.md)
     * [Windows 环境配置](windows-环境配置.md)
     * [Mac OS 环境配置](mac-os-环境配置.md)
-    * Linux 环境配置
+    * [Linux 环境配置](linux-环境配置.md)
     * 版本更新
     * Android Studio 项目结构
     * Android Studio 模块
