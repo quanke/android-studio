@@ -218,7 +218,7 @@
     * [GPU监视器](gpu监视器.md)
 * [第十四章 版本控制](第十四章-版本控制.md)
     * Git偏好设置
-    * 配置Github
+    * [配置Github](配置github.md)
     * 从Github克隆代码
     * 将本地项目共享到GitHub
     * 查看本地变更历史
