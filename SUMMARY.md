@@ -2,6 +2,11 @@
 
 * [前言](README.md)
 * [第一章 Android Studio 入门](chapter1.md)
+    * 下载
+    * Windows 环境配置
+    * Mac OS 环境配置
+    * Linux 环境配置
+    * 版本更新
 * [第二章 新建](新建.md)
 * 第三章 布局
 * 第四章 管理
