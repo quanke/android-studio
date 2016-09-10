@@ -221,7 +221,7 @@
     * [配置Github](配置github.md)
     * [从Github克隆代码](从github克隆代码.md)
     * [将本地项目共享到GitHub](将本地项目共享到github.md)
-    * 查看本地变更历史
+    * [查看本地变更历史](查看本地变更历史.md)
     * Git添加文件
     * Git提交变更
     * Git文件逐行追溯
