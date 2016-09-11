@@ -7,3 +7,9 @@
 此书采用开源的形式编写，所以每个Android都可以参与，而且这个不像某些技术形书籍，需要功底才能表达出来，此书属于操作类型的，没有什么高深的理论，只需要把你使用的方法写出来就可以。
 
 所有的源文件都在github（https://github.com/quanke/android-studio）上，希望大伙一起来做这个有意思的事情。
+
+阅读地址：
+
+下载地址： https://www.gitbook.com/book/quanke/android-studio/details
+
+协作地址： https://github.com/quanke/android-studio
