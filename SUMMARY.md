@@ -41,7 +41,7 @@
     * [文件同步](文件同步.md)
     * [收藏夹](收藏夹.md)
     * [TODO](todo.md)
-    * Build Variants（构建变种版本）
+    * [Build Variants（构建变种版本）](build-variants（构建变种版本）.md)
 * [第五章 编辑](第五章-编辑.md)
     * [复制](复制.md)
     * [撤销\/重做\/剪切\/粘贴](撤销重做剪切粘贴.md)
