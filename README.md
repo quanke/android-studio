@@ -8,7 +8,7 @@
 
 所有的源文件都在github（https://github.com/quanke/android-studio）上，希望大伙一起来做这个有意思的事情。
 
-阅读地址：
+阅读地址： https://quanke.gitbooks.io/android-studio/content/
 
 下载地址： https://www.gitbook.com/book/quanke/android-studio/details
 
