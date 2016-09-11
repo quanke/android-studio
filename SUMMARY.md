@@ -22,7 +22,7 @@
     * [创建Fragment文件](创建fragment文件.md)
     * [创建service文件](创建service文件.md)
     * [创建自定义组件](创建自定义组件.md)
-    * 创建app widget
+    * [创建app widget](创建app-widget.md)
     * 创建可以资源文件
     * 创建AIDL
     * 创建Android文件夹
