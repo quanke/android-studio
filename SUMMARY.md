@@ -25,7 +25,7 @@
     * [创建app widget](创建app-widget.md)
     * [创建可以资源文件](创建可以资源文件.md)
     * [创建AIDL](创建aidl.md)
-    * 创建Android文件夹
+    * [创建Android文件夹](创建android文件夹.md)
     * 创建矢量图
 * [第三章 布局](第三章-布局.md)
     * [认识布局](认识布局.md)
