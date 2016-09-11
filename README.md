@@ -13,3 +13,6 @@
 下载地址： https://www.gitbook.com/book/quanke/android-studio/details
 
 协作地址： https://github.com/quanke/android-studio
+
+
+我是全科，欢迎关注我的博客 http://quanke.name 
