@@ -15,7 +15,7 @@
     * [创建模块](创建模块.md)
     * [创建库](创建库.md)
     * [导入Android Studio项目](导入android-studio项目.md)
-    * 导入eclipse项目
+    * [导入eclipse项目](导入eclipse项目.md)
     * 导入Jar\/AAR
     * [新建类和文件](新建类和文件.md)
     * [增加so文件](增加so文件.md)
