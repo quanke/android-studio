@@ -151,8 +151,8 @@
     * [迁移](迁移.md)
 * [第十一章 打包构建（Gradle）](第十一章-打包构建.md)
     * [认识Gradle](认识gradle.md)
-    * Gradle中依赖的仓库
-    * 配置Gradle环境
+    * [Gradle中依赖的仓库](gradle中依赖的仓库.md)
+    * [配置Gradle环境](配置gradle环境.md)
     * Gradle Wrapper
     * 初始化构建环境
     * 解决Gradle下载太慢的问题
