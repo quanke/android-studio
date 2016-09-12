@@ -155,36 +155,36 @@
     * [配置Gradle环境](配置gradle环境.md)
     * [Gradle Wrapper](gradle-wrapper.md)
     * [初始化构建环境](初始化构建环境.md)
-    * 解决Gradle下载太慢的问题
-    * 查看和执行Gradle任务
-    * 查看当前项目支持哪些Gradle任务
-    * 执行Gradle任务
-    * 常用Gradle任务
-    * Gradle工具窗口
-    * 构建项目和模块
-    * Gradle编译项目
-    * Gradle编译模块
-    * 设置自动编译项目
-    * 重新构建项目
-    * Make Project跟Rebuild Project的区别
-    * 清理项目
-    * Gradle Script
+    * [解决Gradle下载太慢的问题](解决gradle下载太慢的问题.md)
+    * [查看和执行Gradle任务](查看和执行gradle任务.md)
+    * [查看当前项目支持哪些Gradle任务](查看当前项目支持哪些gradle任务.md)
+    * [执行Gradle任务](执行gradle任务.md)
+    * [常用Gradle任务](常用gradle任务.md)
+    * [Gradle工具窗口](gradle工具窗口.md)
+    * [构建项目和模块](构建项目和模块.md)
+    * [Gradle编译项目](gradle编译项目.md)
+    * [Gradle编译模块](gradle编译模块.md)
+    * [设置自动编译项目](设置自动编译项目.md)
+    * [重新构建项目](重新构建项目.md)
+    * [Make Project跟Rebuild Project的区别](make-project跟rebuild-project的区别.md)
+    * [清理项目](清理项目.md)
+    * [Gradle Script](gradle-script.md)
     * Gradlew配置文件:gradle-wrapper.properties
-    * 项目全局配置文件:settings.gradle
-    * 本地属性配置文件:local.properties
-    * Gradle配置文件:gradle.properties
-    * 代码混淆规则配置文件:proguard-rules.pro
-    * 项目构建配置文件build.gradle
-    * 模块构建配置文件:build.gradle
-    * 项目结构中配置模块构建
-    * 配置应用程序属性
-    * 配置应用程序签名
-    * 配置应用程序的特性
-    * 配置应用程序的构建类型
-    * 配置应用程序的依赖
-    * 打签名包
-    * 多渠道打包
-    * 配置开发者服务
+    * [项目全局配置文件:settings.gradle](项目全局配置文件settingsgradle.md)
+    * [本地属性配置文件:local.properties](本地属性配置文件localproperties.md)
+    * [Gradle配置文件:gradle.properties](gradle配置文件gradleproperties.md)
+    * [代码混淆规则配置文件:proguard-rules.pro](代码混淆规则配置文件proguard-rulespro.md)
+    * [项目构建配置文件build.gradle](项目构建配置文件buildgradle.md)
+    * [模块构建配置文件:build.gradle](模块构建配置文件buildgradle.md)
+    * [项目结构中配置模块构建](项目结构中配置模块构建.md)
+    * [配置应用程序属性](配置应用程序属性.md)
+    * [配置应用程序签名](配置应用程序签名.md)
+    * [配置应用程序的特性](配置应用程序的特性.md)
+    * [配置应用程序的构建类型](配置应用程序的构建类型.md)
+    * [配置应用程序的依赖](配置应用程序的依赖.md)
+    * [打签名包](打签名包.md)
+    * [多渠道打包](多渠道打包.md)
+    * [配置开发者服务](配置开发者服务.md)
 * [第十二章 运行调试](第十二章-运行调试.md)
     * [运行和调试配置](运行和调试配置.md)
     * [Android应用程序配置](android应用程序配置.md)
