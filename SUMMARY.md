@@ -153,8 +153,8 @@
     * [认识Gradle](认识gradle.md)
     * [Gradle中依赖的仓库](gradle中依赖的仓库.md)
     * [配置Gradle环境](配置gradle环境.md)
-    * Gradle Wrapper
-    * 初始化构建环境
+    * [Gradle Wrapper](gradle-wrapper.md)
+    * [初始化构建环境](初始化构建环境.md)
     * 解决Gradle下载太慢的问题
     * 查看和执行Gradle任务
     * 查看当前项目支持哪些Gradle任务
