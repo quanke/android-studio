@@ -197,25 +197,25 @@
     * [配置Android单元测试](配置android单元测试.md)
 * [第十三章 工具](第十三章-工具.md)
     * [任务](任务.md)
-    * 变更列表
-    * 管理上下文
-    * 生成JavaDoc
-    * 将当前文件保存为模板
-    * 创建命令行启动
-    * IDE Scripting Console
-    * 管理Android SDK
-    * 管理Android虚拟机
-    * Android模拟器
-    * 即时运行
-    * Android监视器
-    * 截图
-    * 录像
-    * 捕获系统信息
-    * 布局解析
-    * Logcat监视器
+    * [变更列表](变更列表.md)
+    * [管理上下文](管理上下文.md)
+    * [生成JavaDoc](生成javadoc.md)
+    * [将当前文件保存为模板](将当前文件保存为模板.md)
+    * [创建命令行启动](创建命令行启动.md)
+    * [IDE Scripting Console](ide-scripting-console.md)
+    * [管理Android SDK](管理android-sdk.md)
+    * [管理Android虚拟机](管理android虚拟机.md)
+    * [Android模拟器](android/b模拟器.md)
+    * [即时运行](即时运行.md)
+    * [Android监视器](android监视器.md)
+    * [截图](截图.md)
+    * [录像](录像.md)
+    * [捕获系统信息](捕获系统信息.md)
+    * [布局解析](布局解析.md)
+    * [Logcat监视器](logcat监视器.md)
     * 内存监视器
-    * CPU监视器
-    * 网络监视器
+    * [CPU监视器](cpu监视器.md)
+    * [网络监视器](网络监视器.md)
     * [GPU监视器](gpu监视器.md)
 * [第十四章 版本控制](第十四章-版本控制.md)
     * [Git偏好设置](Git偏好设置.md)
