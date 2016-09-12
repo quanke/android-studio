@@ -20,7 +20,7 @@
 
 > 此书不一定是按顺序编写
 
-现在正在编辑的章节 ：
+现在正在编辑的章节 ：https:\/\/quanke.gitbooks.io\/android-studio\/content\/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%BC%96%E7%A0%81.html
 
-已经完成编辑的章节： https:\/\/quanke.gitbooks.io\/android-studio\/content\/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%AF%BC%E8%88%AA.html 
+已经完成编辑的章节： https:\/\/quanke.gitbooks.io\/android-studio\/content\/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%AF%BC%E8%88%AA.html
 
