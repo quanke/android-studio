@@ -169,7 +169,7 @@
     * [Make Project跟Rebuild Project的区别](make-project跟rebuild-project的区别.md)
     * [清理项目](清理项目.md)
     * [Gradle Script](gradle-script.md)
-    * Gradlew配置文件:gradle-wrapper.properties
+    * [Gradlew配置文件:gradle-wrapper.properties](gradlew配置文件gradle-wrapperproperties.md)
     * [项目全局配置文件:settings.gradle](项目全局配置文件settingsgradle.md)
     * [本地属性配置文件:local.properties](本地属性配置文件localproperties.md)
     * [Gradle配置文件:gradle.properties](gradle配置文件gradleproperties.md)
