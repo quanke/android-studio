@@ -216,7 +216,7 @@
   * [IDE Scripting Console](ide-scripting-console.md)
   * [管理Android SDK](管理android-sdk.md)
   * [管理Android虚拟机](管理android虚拟机.md)
-  * [Android模拟器](android/b模拟器.md)
+  * [Android模拟器](android模拟器.md)
   * [即时运行](即时运行.md)
   * [Android监视器](android监视器.md)
   * [截图](截图.md)
