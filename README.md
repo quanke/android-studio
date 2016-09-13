@@ -22,9 +22,11 @@
 
 现在正在编辑的章节 ：
 
+[第十章 重构](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E9%87%8D%E6%9E%84.html)
+
 已经完成编辑的章节： 
 
-https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%AF%BC%E8%88%AA.html
+[第七章 导航](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%AF%BC%E8%88%AA.html)
 
-https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%BC%96%E7%A0%81.html
+[第八章 编码](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%BC%96%E7%A0%81.html)
 
