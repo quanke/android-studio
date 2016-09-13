@@ -8,13 +8,13 @@
 
 书中提到的快捷键全部都是 Android Studio 默认快捷键。
 
-所有的源文件都在github（ [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio) ）上，希望大伙一起来做这个有意思的事情。
+所有的源文件都在github（ [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio) ）上，希望大伙一起来做这个有意思的事情。
 
-阅读地址： [https://quanke.gitbooks.io/android-studio/content/](https://quanke.gitbooks.io/android-studio/content/)
+阅读地址： [https:\/\/quanke.gitbooks.io\/android-studio\/content\/](https://quanke.gitbooks.io/android-studio/content/)
 
-下载地址： [https://www.gitbook.com/book/quanke/android-studio/details](https://www.gitbook.com/book/quanke/android-studio/details)
+下载地址： [https:\/\/www.gitbook.com\/book\/quanke\/android-studio\/details](https://www.gitbook.com/book/quanke/android-studio/details)
 
-协作地址： [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio)
+协作地址： [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio)
 
 我是全科，欢迎关注我的博客 [http:\/\/quanke.name](http://quanke.name)
 
@@ -22,9 +22,12 @@
 
 现在正在编辑的章节 ：
 
+[第五章 编辑](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E7%BC%96%E8%BE%91.html)
+
+
 [第十章 重构](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E9%87%8D%E6%9E%84.html)
 
-已经完成编辑的章节： 
+已经完成编辑的章节：
 
 [第七章 导航](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%AF%BC%E8%88%AA.html)
 
