@@ -114,8 +114,6 @@
     * [Lint命令使用](lint命令使用.md)
 * [第十章 重构](第十章-重构.md)
     * [重命名](重命名.md)
-    * [提炼方法](提炼方法.md)
-    * [提炼方法对象](提炼方法对象.md)
     * [更改方法签名](更改方法签名.md)
     * [迁移变量类型](迁移变量类型.md)
     * [转成静态方法](转成静态方法.md)
@@ -128,6 +126,9 @@
     * [提炼为常量](提炼为常量.md)
     * [提炼字段](提炼字段.md)
     * [提炼参数](提炼参数.md)
+    * [提炼函数式参数](提炼函数式参数.md)
+    * [提炼参数对象](提炼参数对象.md)
+    * [提炼方法](提炼方法.md)
     * [提炼委托](提炼委托.md)
     * [提炼接口](提炼接口.md)
     * [提炼父类](提炼父类.md)
@@ -145,45 +146,45 @@
     * [封装字段](封装字段.md)
     * [使用查询替换临时变量](使用查询替换临时变量.md)
     * [使用工厂方法替换构造方法](使用工厂方法替换构造方法.md)
-    * [使用构建器替换构造方法](使用构建器替换构造/b方法.md)
-    * [泛型化](泛型化.md)
-    * [迁移](迁移.md)
+    * 使用构建器替换构造方法
+    * 泛型化
+    * 迁移
 * [第十一章 打包构建（Gradle）](第十一章-打包构建.md)
     * [认识Gradle](认识gradle.md)
-    * [Gradle中依赖的仓库](gradle中依赖的仓库.md)
-    * [配置Gradle环境](配置gradle环境.md)
-    * [Gradle Wrapper](gradle-wrapper.md)
-    * [初始化构建环境](初始化构建环境.md)
-    * [解决Gradle下载太慢的问题](解决gradle下载太慢的问题.md)
-    * [查看和执行Gradle任务](查看和执行gradle任务.md)
-    * [查看当前项目支持哪些Gradle任务](查看当前项目支持哪些gradle任务.md)
-    * [执行Gradle任务](执行gradle任务.md)
-    * [常用Gradle任务](常用gradle任务.md)
-    * [Gradle工具窗口](gradle工具窗口.md)
-    * [构建项目和模块](构建项目和模块.md)
-    * [Gradle编译项目](gradle编译项目.md)
-    * [Gradle编译模块](gradle编译模块.md)
-    * [设置自动编译项目](设置自动编译项目.md)
-    * [重新构建项目](重新构建项目.md)
-    * [Make Project跟Rebuild Project的区别](make-project跟rebuild-project的区别.md)
-    * [清理项目](清理项目.md)
-    * [Gradle Script](gradle-script.md)
-    * [Gradlew配置文件:gradle-wrapper.properties](gradlew配置文件gradle-wrapperproperties.md)
-    * [项目全局配置文件:settings.gradle](项目全局配置文件settingsgradle.md)
-    * [本地属性配置文件:local.properties](本地属性配置文件localproperties.md)
-    * [Gradle配置文件:gradle.properties](gradle配置文件gradleproperties.md)
-    * [代码混淆规则配置文件:proguard-rules.pro](代码混淆规则配置文件proguard-rulespro.md)
-    * [项目构建配置文件build.gradle](项目构建配置文件buildgradle.md)
-    * [模块构建配置文件:build.gradle](模块构建配置文件buildgradle.md)
-    * [项目结构中配置模块构建](项目结构中配置模块构建.md)
-    * [配置应用程序属性](配置应用程序属性.md)
-    * [配置应用程序签名](配置应用程序签名.md)
-    * [配置应用程序的特性](配置应用程序的特性.md)
-    * [配置应用程序的构建类型](配置应用程序的构建类型.md)
-    * [配置应用程序的依赖](配置应用程序的依赖.md)
-    * [打签名包](打签名包.md)
-    * [多渠道打包](多渠道打包.md)
-    * [配置开发者服务](配置开发者服务.md)
+    * Gradle中依赖的仓库
+    * 配置Gradle环境
+    * Gradle Wrapper
+    * 初始化构建环境
+    * 解决Gradle下载太慢的问题
+    * 查看和执行Gradle任务
+    * 查看当前项目支持哪些Gradle任务
+    * 执行Gradle任务
+    * 常用Gradle任务
+    * Gradle工具窗口
+    * 构建项目和模块
+    * Gradle编译项目
+    * Gradle编译模块
+    * 设置自动编译项目
+    * 重新构建项目
+    * Make Project跟Rebuild Project的区别
+    * 清理项目
+    * Gradle Script
+    * Gradlew配置文件:gradle-wrapper.properties
+    * 项目全局配置文件:settings.gradle
+    * 本地属性配置文件:local.properties
+    * Gradle配置文件:gradle.properties
+    * 代码混淆规则配置文件:proguard-rules.pro
+    * 项目构建配置文件build.gradle
+    * 模块构建配置文件:build.gradle
+    * 项目结构中配置模块构建
+    * 配置应用程序属性
+    * 配置应用程序签名
+    * 配置应用程序的特性
+    * 配置应用程序的构建类型
+    * 配置应用程序的依赖
+    * 打签名包
+    * 多渠道打包
+    * 配置开发者服务
 * [第十二章 运行调试](第十二章-运行调试.md)
     * [运行和调试配置](运行和调试配置.md)
     * [Android应用程序配置](android应用程序配置.md)
@@ -196,25 +197,25 @@
     * [配置Android单元测试](配置android单元测试.md)
 * [第十三章 工具](第十三章-工具.md)
     * [任务](任务.md)
-    * [变更列表](变更列表.md)
-    * [管理上下文](管理上下文.md)
-    * [生成JavaDoc](生成javadoc.md)
-    * [将当前文件保存为模板](将当前文件保存为模板.md)
-    * [创建命令行启动](创建命令行启动.md)
-    * [IDE Scripting Console](ide-scripting-console.md)
-    * [管理Android SDK](管理android-sdk.md)
-    * [管理Android虚拟机](管理android虚拟机.md)
-    * [Android模拟器](android模拟器.md)
-    * [即时运行](即时运行.md)
-    * [Android监视器](android监视器.md)
-    * [截图](截图.md)
-    * [录像](录像.md)
-    * [捕获系统信息](捕获系统信息.md)
-    * [布局解析](布局解析.md)
-    * [Logcat监视器](logcat监视器.md)
-    * [内存监视器](内存监视器.md)
-    * [CPU监视器](cpu监视器.md)
-    * [网络监视器](网络监视器.md)
+    * 变更列表
+    * 管理上下文
+    * 生成JavaDoc
+    * 将当前文件保存为模板
+    * 创建命令行启动
+    * IDE Scripting Console
+    * 管理Android SDK
+    * 管理Android虚拟机
+    * Android模拟器
+    * 即时运行
+    * Android监视器
+    * 截图
+    * 录像
+    * 捕获系统信息
+    * 布局解析
+    * Logcat监视器
+    * 内存监视器
+    * CPU监视器
+    * 网络监视器
     * [GPU监视器](gpu监视器.md)
 * [第十四章 版本控制](第十四章-版本控制.md)
     * [Git偏好设置](Git偏好设置.md)
