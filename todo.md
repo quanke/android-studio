@@ -18,23 +18,25 @@
 
 TODO工具窗口中查看TODO任务
 
-
-
 ### 操作步骤:
 
-
-
 菜单栏 —&gt; View —&gt; TODO
-
-
 
 ## TODO间上下跳转
 
 光标定位在某个TODO任务上,可以使用快捷键快速上下跳转来查看
 
-### 快捷键: 
+### 快捷键:
 
 Mac: Alt + Command + 向上箭头 和 Alt + Command + 向下箭头
 
 Windows\/Linux: Ctrl + Alt + 向上箭头 和 Ctrl + Alt + 向下箭头
+
+
+
+## 设置TODO
+
+设置TODO界面可以从偏好设置中打开,也可以从TODO工具窗口打开.虽然路径不同,但设置项是相同的. 我们下面均以偏好设置中的设置为例进行讲解.
+
+
 
