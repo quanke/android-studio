@@ -32,11 +32,17 @@ Mac: Alt + Command + 向上箭头 和 Alt + Command + 向下箭头
 
 Windows\/Linux: Ctrl + Alt + 向上箭头 和 Ctrl + Alt + 向下箭头
 
-
-
 ## 设置TODO
 
 设置TODO界面可以从偏好设置中打开,也可以从TODO工具窗口打开.虽然路径不同,但设置项是相同的. 我们下面均以偏好设置中的设置为例进行讲解.
+
+
+
+
+
+## 自定义TODO关键字
+
+
 
 
 
