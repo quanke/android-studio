@@ -12,9 +12,29 @@
 
 添加注释 —&gt; 输入TODO —&gt;添加说明
 
-
-
 > Java、xml、gradle 文件都支持TODO
 
+## 查看TODO任务
 
+TODO工具窗口中查看TODO任务
+
+
+
+### 操作步骤:
+
+
+
+菜单栏 —&gt; View —&gt; TODO
+
+
+
+## TODO间上下跳转
+
+光标定位在某个TODO任务上,可以使用快捷键快速上下跳转来查看
+
+### 快捷键: 
+
+Mac: Alt + Command + 向上箭头 和 Alt + Command + 向下箭头
+
+Windows\/Linux: Ctrl + Alt + 向上箭头 和 Ctrl + Alt + 向下箭头
 
