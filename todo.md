@@ -36,13 +36,21 @@ Windows\/Linux: Ctrl + Alt + 向上箭头 和 Ctrl + Alt + 向下箭头
 
 设置TODO界面可以从偏好设置中打开,也可以从TODO工具窗口打开.虽然路径不同,但设置项是相同的. 我们下面均以偏好设置中的设置为例进行讲解.
 
+## 设置TODO关键字匹配区分大小写
 
+默认TODO关键字匹配是不区分大小写的,因此不管是TODO还是todo都被识别为TODO任务，如果想要区分大小写，需要设置。
+
+
+
+### 操作步骤:
+
+
+
+Preferences —&gt; Editor —&gt; TODO —&gt; 在需要区分大小写的匹配前面勾选Case Sensitive。
+
+勾选Case Sensitive之后确定设置.。再查看之前的todo就不会被识别为TODO任务了。
 
 
 
 ## 自定义TODO关键字
-
-
-
-
 
