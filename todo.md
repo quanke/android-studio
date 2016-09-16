@@ -40,17 +40,25 @@ Windows\/Linux: Ctrl + Alt + 向上箭头 和 Ctrl + Alt + 向下箭头
 
 默认TODO关键字匹配是不区分大小写的,因此不管是TODO还是todo都被识别为TODO任务，如果想要区分大小写，需要设置。
 
+### 操作步骤:
+
+Preferences —&gt; Editor —&gt; TODO —&gt; 在需要区分大小写的匹配前面勾选Case Sensitive。
+
+勾选Case Sensitive之后确定设置.。再查看之前的todo就不会被识别为TODO任务了。
+
+## 自定义TODO关键字
+
+如果想要通过TODO来分配任务, 使用自定义关键字会更加方便管理。
+
+
+
+比如: todo-quanke是分配给我自己的任务,todo-zhiran是分配给志然的任务。
+
 
 
 ### 操作步骤:
 
 
 
-Preferences —&gt; Editor —&gt; TODO —&gt; 在需要区分大小写的匹配前面勾选Case Sensitive。
-
-勾选Case Sensitive之后确定设置.。再查看之前的todo就不会被识别为TODO任务了。
-
-
-
-## 自定义TODO关键字
+Preferences —&gt; Editor —&gt; TODO —&gt; 添加按钮 —&gt;输入匹配表达式 —&gt; 选择icon —&gt; 设置颜色
 
