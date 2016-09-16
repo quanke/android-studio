@@ -50,15 +50,13 @@ Preferences —&gt; Editor —&gt; TODO —&gt; 在需要区分大小写的匹�
 
 如果想要通过TODO来分配任务, 使用自定义关键字会更加方便管理。
 
-
-
 比如: todo-quanke是分配给我自己的任务,todo-zhiran是分配给志然的任务。
-
-
 
 ### 操作步骤:
 
-
-
 Preferences —&gt; Editor —&gt; TODO —&gt; 添加按钮 —&gt;输入匹配表达式 —&gt; 选择icon —&gt; 设置颜色
+
+
+
+
 
