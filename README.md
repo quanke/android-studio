@@ -33,5 +33,8 @@
 
 [第十章 重构](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E9%87%8D%E6%9E%84.html)
 
+[第十六章 插件](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0-%E6%8F%92%E4%BB%B6.html)
+
+
 [附录 快捷键](https://quanke.gitbooks.io/android-studio/content/%E9%99%84%E5%BD%95-%E5%BF%AB%E6%8D%B7%E9%94%AE.html)
 
