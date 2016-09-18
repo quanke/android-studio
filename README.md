@@ -24,6 +24,7 @@
 
 [第五章 编辑](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E7%BC%96%E8%BE%91.html)
 
+[第十一章-打包构建](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E6%89%93%E5%8C%85%E6%9E%84%E5%BB%BA.html)
 
 已经完成编辑的章节：
 
