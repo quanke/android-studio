@@ -230,17 +230,23 @@ Android Studio默认使用 **Gradle** 构建项目， **Eclipse** 默认使用**
 
 在弹出的目录选择框中，选择 **你想导入的项目所在的目录，而不是 Eclipse 的工作空间** 。
 
+![](/image/Chapter02/导入eclipse项目/想导入的项目所在的目录.png)
+
 **讲解20**
 
 Android Studio识别出你的项目是一个 **Eclipse Android** 项目，它将重新使用 **Gradle** 构建项目。
 
 Android Studio会完整复制项目文件到一个新的目录中，你需要设置这个新目录的地址。
 
+![](/image/Chapter02/导入eclipse项目/新目录的地址.png)
+
 设置完毕，点击 **Next** 。
 
 **讲解21**
 
 将之前 **Ant** 架构改变为 **Gradle** 架构。
+
+![](/image/Chapter02/导入eclipse项目/Ant 架构改变为 Gradle 架构.png)
 
 * **Replace jars with dependencies,when possible** ：将 **Ant** 的 **jar** 依赖关系使用 **dependencies** 重构。
 * **Replace library sources with dependencies,when possible** ：将 **Ant** 的 **library** 项目的依赖关系使用**dependencies** 重构。
@@ -249,6 +255,8 @@ Android Studio会完整复制项目文件到一个新的目录中，你需要设
 建议全选，点击 **Finish** 。Android Studio开始编译项目，同时进入Android Studio主页面。
 
 同样的，在编译的过程中，依然会提示你语言等级的问题，选择 **Yes** 。
+
+![](/image/Chapter02/导入eclipse项目/编译的工程中的弹框.png)
 
 ## **导入Android Studio项目**
 
@@ -306,25 +314,5 @@ Android Studio项目，指的是使用 **Gradle** 进行构建的项目。默认
 
 有的一些Android Studio项目有对 **Eclipse** 做兼容处理，项目结构看起来和 **Eclipse** 是相同的。
 
-**讲解22**
 
-当你从网络上或者其他地方获取到一份Android Studio项目源码时，你希望能够导入到Android Studio中。首先，你需要先对这份源码进行一些修改。具体的修改内容，请参照 **讲解8** 。
-
-打开Android Studio，选择 **Open an existing Android Studio project**。
-
-在弹出的路径选择框中，选择你要导入的Android Studio项目，点击 **OK** 。
-
-**讲解23**
-
-然后会弹出和 **讲解11** 相同的页面，同样，和 **讲解11** 进行一样的设置即可。
-
-之后的步骤，同 **讲解11** ，在此不再赘述。
-
-## **其他导入方式**
-
-导入一个项目除了在Android Studio起始页进行导入之外，你也可以在Android Studio主页中进行导入。
-
-**File** --&gt; **Import Project** 或者 **File** --&gt; **Import Module** 。
-
-导入的过程和前面的讲解都是一样的，就不在赘述了。
 
