@@ -46,8 +46,21 @@ Gradle只是提供了构建项目的一个框架,所有有用的特性都由Grad
 * 加入新的属性, 可以覆盖插件的默认配置属性.
 * 为项目加入新的依赖.
 
-
 更多请参考: [http:\/\/www.gradle.org\/docs\/current\/userguide\/standard\_plugins.html](http://www.gradle.org/docs/current/userguide/standard_plugins.html)
 
-项目、任务和插件的关系是什么？项目代表要被构建的组件或整个项目,它为任务提供了执行的上下文，而插件用来向项目中添加属性和任务.一个任务可以读取和设置项目的属性以完成特定的操作.如何配置Gradle构建？Gradle的构建肯定会包含下面这几个配置文件:Gradle构建脚本（build.gradle）指定了一个项目和它的任务.Gradle属性文件（gradle.properties）用来配置构建属性.Gradle设置文件（gradle.settings）对于只有一个项目的构建而言是可选的,如果我们的构建中包含多于一个项目，那么它就是必须的.因为它描述了哪一个项目参与构建.每一个多项目构建都必须在项目结构的根目录中加入一个设置文件gradle.settings.
+## 项目、任务和插件的关系是什么？
+
+项目代表要被构建的组件或整个项目,它为任务提供了执行的上下文，而插件用来向项目中添加属性和任务.一个任务可以读取和设置项目的属性以完成特定的操作.
+
+## 如何配置Gradle构建？
+
+Gradle的构建肯定会包含下面这几个配置文件:
+
+Gradle构建脚本（build.gradle）指定了一个项目和它的任务.
+
+Gradle属性文件（gradle.properties）用来配置构建属性.
+
+Gradle设置文件（gradle.settings）对于只有一个项目的构建而言是可选的,如果我们的构建中包含多于一个项目，那么它就是必须的.
+
+因为它描述了哪一个项目参与构建.每一个多项目构建都必须在项目结构的根目录中加入一个设置文件gradle.settings.
 
