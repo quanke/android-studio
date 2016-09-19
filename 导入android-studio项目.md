@@ -1,8 +1,8 @@
 # 导入Android Studio项目
 
-**讲解22**
 
-当你从网络上或者其他地方获取到一份Android Studio项目源码时，你希望能够导入到Android Studio中。首先，你需要先对这份源码进行一些修改。具体的修改内容，请参照 **讲解8** 。
+
+当你从网络上或者其他地方获取到一份Android Studio项目源码时，你希望能够导入到Android Studio中。首先，你需要先对这份源码进行一些修改。
 
 打开Android Studio，选择 **Open an existing Android Studio project**。
 

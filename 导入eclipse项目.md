@@ -262,57 +262,33 @@ Android Studio会完整复制项目文件到一个新的目录中，你需要设
 
 Android Studio项目，指的是使用 **Gradle** 进行构建的项目。默认的文件结构如下：
 
-`project-name`
+```
+project-name+ app/
+ + src/
+ + main/
+ + assets/
+ + java/
+ + package
+ ...
+ + res/
+ + drawable/
+ ...
+ + layout
+ ...
+ + values
+ ...
+ | Androidmanifest.xml
+ | build.gradle
++ gradle/
+ + wrapper/
+ | gradle-wrapper.jar
+ | gradle-wrapper.properties
+| build.gradle
+| gradlew
+| gradlew.bat
+| settings.gradle 
 
-`+ app/`
-
-`+ src/`
-
-`+ main/`
-
-`+ assets/`
-
-`+ java/`
-
-`+ package`
-
-`...`
-
-`+ res/`
-
-`+ drawable/`
-
-`...`
-
-`+ layout`
-
-`...`
-
-`+ values`
-
-`...`
-
-`| Androidmanifest.xml`
-
-`| build.gradle`
-
-`+ gradle/`
-
-`+ wrapper/`
-
-`| gradle-wrapper.jar`
-
-`| gradle-wrapper.properties`
-
-`| build.gradle`
-
-`| gradlew`
-
-`| gradlew.bat`
-
-`| settings.gradle`
+```
 
 有的一些Android Studio项目有对 **Eclipse** 做兼容处理，项目结构看起来和 **Eclipse** 是相同的。
-
-
 
