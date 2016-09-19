@@ -247,8 +247,30 @@
             * [调整演示模式的字体大小](调整演示模式的字体大小.md)
         * [菜单和工具栏](菜单和工具栏.md)
             * [对菜单选项和工具栏的工具进行增删攺](对菜单选项和工具栏的工具进行增删攺.md)
+        * 系统设置
+            * [设置启动Android Studio时是否自动打开项目](设置启动android-studio时是否自动打开项目.md)
+            * [设置退出Android Studio时是否弹出确认提示](设置退出android-studio时是否弹出确认提示.md)
+            * [设置打开一个项目时的打开方式](设置打开一个项目时的打开方式.md)
+            * [设置文件自动保存的时间](设置文件自动保存的时间.md)
+            * [设置密码存储策略](设置密码存储策略.md)
+            * [设置HTTP代理](设置http代理.md)
+            * [设置Android Studio版本更新规则](设置android-studio版本更新规则.md)
+            * [设置是否让Google统计你的使用信息](设置是否让google统计你的使用信息.md)
+            * [管理Android SDK平台](管理android-sdk平台.md)
+            * [使用单独的SDK管理窗口来管理SDK](使用单独的sdk管理窗口来管理sdk.md)
+            * [管理Android SDK开发工具](管理android-sdk开发工具.md)
+            * [管理Android SDK更新站点](管理android-sdk更新站点.md)
+        * [文件颜色](文件颜色.md)
+        * [范围](范围.md)
+        * [通知](通知.md)
+        * [快速列表](快速列表.md)
+        * [路径变量](路径变量.md)
     * 第二部分 键盘映射
-    * 第三部分 编辑器
+        * [Android Studio中使用Eclipse快捷键](android-studio中使用eclipse快捷键.md)
+        * [自定义keymap](自定义keymap.md)
+    * [第三部分 编辑器](第三部分-编辑器.md)
+        * [常规设置](常规设置.md)
+            * [编辑器常规设置](编辑器常规设置.md)
     * 第四部分 插件
     * 第五部分 版本控制
     * 第六部分 构建,执行,部署
