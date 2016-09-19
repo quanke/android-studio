@@ -1,3 +1,11 @@
 {
-
+    "plugins": [
+        "ga"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-82833335-4",
+            "configuration": "auto"
+        }
+    }
 }
