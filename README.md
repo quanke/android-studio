@@ -8,15 +8,15 @@
 
 书中提到的快捷键全部都是 Android Studio 默认快捷键。
 
-所有的源文件都在github（ [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio) ）上，希望大伙一起来做这个有意思的事情。
+所有的源文件都在github（ [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio) ）上，希望大伙一起来做这个有意思的事情。
 
-阅读地址： [https:\/\/quanke.gitbooks.io\/android-studio\/content\/](https://quanke.gitbooks.io/android-studio/content/)
+阅读地址： [https://as.quanke.name/](https://as.quanke.name/)
 
-下载地址： [https:\/\/www.gitbook.com\/book\/quanke\/android-studio\/details](https://www.gitbook.com/book/quanke/android-studio/details)
+下载地址： [https://www.gitbook.com/book/quanke/android-studio/details](https://www.gitbook.com/book/quanke/android-studio/details)
 
-协作地址： [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio)
+协作地址： [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio)
 
-我是全科，欢迎关注我的博客 [http:\/\/quanke.name](http://quanke.name)
+我是全科，欢迎关注我的博客 [http://quanke.name](http://quanke.name)
 
 > 此书不一定是按顺序编写
 
