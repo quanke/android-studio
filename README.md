@@ -22,9 +22,9 @@
 
 现在正在编辑的章节 ：
 
-[第十一章-打包构建](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E6%89%93%E5%8C%85%E6%9E%84%E5%BB%BA.html)
-
 [第二章 新建](https://as.quanke.name/%E6%96%B0%E5%BB%BA.html)
+
+[第十一章-打包构建](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E6%89%93%E5%8C%85%E6%9E%84%E5%BB%BA.html)
 
 已经完成编辑的章节：
 
