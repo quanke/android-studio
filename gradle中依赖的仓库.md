@@ -20,6 +20,67 @@ Ivy仓库应该用的人不多吧,这里就不多作介绍了,重点放在maven�
 
 从Maven仓库中获取依赖
 
+```
+repositories {
+
+
+1.从指定的远程maven仓库中获取依赖
+
+maven {
+
+url "http://maven.helloword.net/repo"
+
+}
+
+
+
+2.从指定的本地maven仓库中获取依赖
+
+maven {
+
+url "file:///Users/bixiaopeng/mvn"
+
+}
+
+
+
+3.从中央Maven仓库中获取依赖
+
+mavenCenter()
+
+
+
+4.从新的中央远程仓库中获取依赖
+
+jcenter()
+
+
+
+5.从本地仓库中获取依赖
+
+mavenLocal()
+
+
+
+6.需要认证的库
+
+maven {
+
+credentials {
+
+username 'user'
+
+password 'password'
+
+}
+
+url "http://repo.helloword.com/maven2"
+
+}
+
+}
+
+```
 ## Maven仓库的三种别名
 
 为了更加方便的加入Maven仓库, Gradle为我们提供了3种别名,分别是:
@@ -43,4 +104,25 @@ jcenter存放在这里:https:\/\/bintray.com\/
 从平级目录仓库中获取依赖
 
 从本地目录中获取依赖,在build.gradle中添加:
+
+```
+repositories {
+
+//从当前项目的平级目录lib中获取依赖
+
+    flatDir(dir: 'lib', name: 'libs directory')
+
+//从当前项目的平级目录libA和libB中获取依赖
+
+flatDir {
+
+    dirs 'libA', 'libB'
+
+    name = 'All dependency directories'
+
+    }
+
+}
+
+```
 
