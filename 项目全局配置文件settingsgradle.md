@@ -1,10 +1,8 @@
 # 项目全局配置文件:settings.gradle
 
-
-
 默认的settings.gradle文件内容如下:
 
-include ':app'
+`include ':app'`
 
 settings.gradle是项目的全局配置文件,主要声明一些需要加入构建的模块,本例中只有一个模块:app.
 
@@ -12,9 +10,9 @@ settings.gradle是项目的全局配置文件,主要声明一些需要加入构�
 
 包含多个模块的格式是这样的:
 
-include ':app',':other-module-name'
+`include ':app',':other-module-name'`
 
 如果包含的是某个目录下的模块,格式是这样的:
 
-include ':app', ':dir-name:other-module-name'
+`include ':app', ':dir-name:other-module-name'`
 
