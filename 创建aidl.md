@@ -1,1 +1,49 @@
 # 创建AIDL
+
+### **什么是AIDL？**
+
+`AIDL`是 `Android Interface definition language`的缩写，它是一种`Android`内部进程通信接口的描述语言，通过它我们可以定义进程间的通信接口
+
+### **AIDL可以解决什么问题？**
+
+* 可以实现多个应用程序共享同一个Service的功能，比如：IM服务可以提供给多个APP使用，先在推送基本都是采取这种方案
+* 可以跨进程调用服务里的方法
+
+#### **建立AIDL**
+
+##### **1.创建AIDL文件夹**
+
+[**1.创建AIDL文件夹**](http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/1.png "1.创建AIDL文件夹")
+
+##### **2.创建AIDL文件**
+
+[**2.创建AIDL文件**](http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/2.png "2.创建AIDL文件")
+
+##### **3.编写AIDL文件**
+
+| \/\/ IHandler.aidl
+package name.quanke.aidldemo;
+
+\/\/ Declare any non-default types here with import statements
+
+interface IHandler {
+    void connect\(\);
+} |
+| --- |
+
+##### **4.AIDL文件 生成接口**
+
+[**4.AIDL文件 生成接口**](http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/4.png "4.AIDL文件 生成接口")
+
+生成后的样子
+
+[**4.AIDL文件 生成后的样子**](http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/3.png "4.AIDL文件 生成后的样子")
+
+##### 
+
+
+
+> 关于AIDL可以看我的博客，有详细讲解
+
+http:\/\/quanke.name\/2016\/07\/22\/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3\/
+
