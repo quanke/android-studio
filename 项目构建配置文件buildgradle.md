@@ -61,3 +61,9 @@ task clean(type: Delete) {
 }
 
 ```
+
+buildscript中的repositories是指定Android插件的仓库源.
+allprojects中的repositories是指定整个Project中默认的仓库源.
+### 在Project Structure中设置
+我们可以在Project Structure —> Project中设置Gradle和Android插件的版本,以及Android插件和默认第三方库的仓库源.
+Project Structure和Project build.gradle对应的关系:
