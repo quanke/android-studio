@@ -1,5 +1,5 @@
 # 创建AIDL
-
+[](http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/)
 ### **什么是AIDL？**
 
 `AIDL`是 `Android Interface definition language`的缩写，它是一种`Android`内部进程通信接口的描述语言，通过它我们可以定义进程间的通信接口
@@ -42,7 +42,8 @@ interface IHandler {
 
 ##### 
 
-> 关于AIDL可以看我的博客，有详细讲解
+> 关于AIDL的使用，可以看我的博客，有详细讲解
 
-http:\/\/quanke.name\/2016\/07\/22\/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3\/
+[http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/](http://quanke.name/2016/07/22/Android-Studio-Service-AIDL-%E8%AF%A6%E8%A7%A3/)
+
 
