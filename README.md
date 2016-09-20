@@ -10,6 +10,8 @@
 
 所有的源文件都在github（ [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio) ）上，希望大伙一起来做这个有意思的事情。
 
+交流群：`104848238`
+
 阅读地址： [https://as.quanke.name/](https://as.quanke.name/)
 
 下载地址： [https://www.gitbook.com/book/quanke/android-studio/details](https://www.gitbook.com/book/quanke/android-studio/details)
