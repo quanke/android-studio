@@ -1,0 +1,3 @@
+# Gradle Wrapper
+
+Gradle Wrapper是什么？Gradle Wrapper可以理解为是对Gradle的一层封装,使用它可以在没有安装Gradle的系统上使用Gradle来构建项目.如何做到的呢？Gradle Wrapper通过两个脚本文件实现这一功能,一个是用于windows的批处理文件gradlew.bat,一个是用于Linux和Uninx的Shell脚本文件gradlew.使用Android Studio创建的项目默认为我们生成了Gradle Wrapper的文件结构.

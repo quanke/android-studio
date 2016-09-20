@@ -6,7 +6,11 @@
 
 1.2 下载最新版本:gradle-2.13 (当前最新版为2.13)
 
-当然你也可以选择下载某一个历史版本,在页面右边Choose Vesion 中选择下载到本地后解压.二. 配置环境变量2.1 我的本地存放路径:/Volumes/warehouse/dev-tools/tools-jars/gradle-2.132.2 编缉.bash_profile： vim ~/.bash_profile2.3 配置环境变量:
+当然你也可以选择下载某一个历史版本,在页面右边Choose Vesion 中选择下载到本地后解压.
+
+## 二. 配置环境变量
+
+2.1 我的本地存放路径:/Volumes/warehouse/dev-tools/tools-jars/gradle-2.132.2 编缉.bash_profile： vim ~/.bash_profile2.3 配置环境变量:
 
 ```
 export GRADLE_HOME=/Volumes/warehouse/dev-tools/tools-jars/gradle-2.13
