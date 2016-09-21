@@ -28,7 +28,6 @@
 
 [第二章 新建](https://as.quanke.name/%E6%96%B0%E5%BB%BA.html)
 
-[第十一章-打包构建](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E6%89%93%E5%8C%85%E6%9E%84%E5%BB%BA.html)
 
 已经完成编辑的章节：
 
@@ -39,6 +38,8 @@
 [第八章 编码](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%BC%96%E7%A0%81.html)
 
 [第十章 重构](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E9%87%8D%E6%9E%84.html)
+
+[第十一章-打包构建](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E6%89%93%E5%8C%85%E6%9E%84%E5%BB%BA.html)
 
 [第十六章 插件](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0-%E6%8F%92%E4%BB%B6.html)
 
