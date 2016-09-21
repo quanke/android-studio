@@ -28,6 +28,8 @@
 
 [第二章 新建](https://as.quanke.name/%E6%96%B0%E5%BB%BA.html)
 
+[第十四章 版本控制](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.html)
+
 
 已经完成编辑的章节：
 
