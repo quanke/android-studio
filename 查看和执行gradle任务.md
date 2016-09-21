@@ -167,13 +167,13 @@ gradle + 任务名称
 
 或
 
-./gradlew + 任务名称
+.\/gradlew + 任务名称
 
-注意: Gradle的Android插件提供了四个顶级任务: 打包(assemble)、检测(check)、构建(build)、清理(clean),当我们执行一个顶级任务的时候会同时执行与其依赖的任务.
+注意: Gradle的Android插件提供了四个顶级任务: 打包\(assemble\)、检测\(check\)、构建\(build\)、清理\(clean\),当我们执行一个顶级任务的时候会同时执行与其依赖的任务.
 
-比如你执行: ./gradlew assemble
+比如你执行: .\/gradlew assemble
 
-它会把你配置的所有构建类型(Build Types)全部打出来,默认的构建类型是Debug和Release,因此最起码它会执行两个任务:
+它会把你配置的所有构建类型\(Build Types\)全部打出来,默认的构建类型是Debug和Release,因此最起码它会执行两个任务:
 
 gradlew assembleDebug
 
@@ -184,84 +184,4 @@ gradlew assembleRelease
 gradlew assemble+构建类型名
 
 另外你还要知道,执行构建\(build\)任务会执行 检测\(check\)和打包\(assemble\)任务.
-
-## 常用Gradle任务
-
-1.查看gradle版本
-
-```
-$ ./gradlew -v
-```
-
-2.编译并打出Debug版本的包.
-
-```
-./gradlew assembleDebug
-```
-
-3.编译并打出Release版本的包.
-
-```
-./gradlew assembleRelease
-```
-
-4.执行检查并编译打包
-
-```
-./gradlew build
-```
-
-打出所有Release和Debug的包.
-
-5.删除build目录
-
-```
-./gradlew clean
-```
-
-会把app下面的build目录删掉
-
-6.编译打包并安装Debug版本的包
-
-```
-./gradlew installDebug
-```
-
-7.卸载Debug版本的包
-
-```
-./gradlew uninstallDebug
-```
-
-8.使用-info查看任务详情
-
-```
-./gradlew uninstallDebug -info
-```
-
-## Gradle工具窗口
-
-Gradle工具窗口列出了当前项目和模块中支持的所有Gradle任务和运行配置，以方便我们快速操作.
-
-### Tasks:
-
-Tasks列表里的任务跟我们执行./gradlew task得到的任务列表是一样的.
-
-把光标放在某个任务上面显示任务的描述信息:
-
-双击任务即可执行.
-
-任务执行结果:
-
-点击Run工具栏左上角的切换按钮, 可以在任务执行模式和文本式之间切换.
-
-```
-Run Configurations:
-```
-
-Run Configurations列表中列出了项目中执行过的任务配置,这些配置都是执行任务时自动生成的.
-
-想再次执行的时候可以在配置列表中直接选择.
-
-可以在Run/Debug Configurations中对这些配置进行修攺.
 

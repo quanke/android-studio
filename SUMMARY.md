@@ -161,8 +161,6 @@
     * [初始化构建环境](初始化构建环境.md)
     * [解决Gradle下载太慢的问题](解决gradle下载太慢的问题.md)
     * [查看和执行Gradle任务](查看和执行gradle任务.md)
-    * [查看当前项目支持哪些Gradle任务](查看当前项目支持哪些gradle任务.md)
-    * [执行Gradle任务](执行gradle任务.md)
     * [常用Gradle任务](常用gradle任务.md)
     * [Gradle工具窗口](gradle工具窗口.md)
     * [构建项目和模块](构建项目和模块.md)
