@@ -1,18 +1,10 @@
 # Git偏好设置
 
-
-
 当我们把Git的环境配好，在Android Studio的偏好设置中只需要使用默认的配置就可以了。一般不需要特殊配置，但也不排除你有特殊的需求，那下面我们就介绍下Git的偏好设置。
-
-
 
 ### 设置步骤:
 
-
-
 偏好设置: Version Control —&gt; Git
-
-
 
 Path to Git executable:
 
@@ -31,8 +23,6 @@ tips：cherry-pick可以选择某一个分支中的一个或几个commit来进�
 warn if crlf line separators are about to be committed:
 
 如果回车换行符被提交是否警告
-
-
 
 Warn when committing in detached HEAD or during rebase:
 
