@@ -164,8 +164,6 @@
     * [常用Gradle任务](常用gradle任务.md)
     * [Gradle工具窗口](gradle工具窗口.md)
     * [构建项目和模块](构建项目和模块.md)
-    * [Gradle编译项目](gradle编译项目.md)
-    * [Gradle编译模块](gradle编译模块.md)
     * [设置自动编译项目](设置自动编译项目.md)
     * [重新构建项目](重新构建项目.md)
     * [Make Project跟Rebuild Project的区别](make-project跟rebuild-project的区别.md)
