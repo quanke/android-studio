@@ -1,6 +1,7 @@
 # Summary
 
 * [Android Studio 使用艺术 介绍](README.md)
+* [Android Studio 发布版本](android-studio-发布版本.md)
 * [前言](前言.md)
 * [第一章 Android Studio 入门](第一章 Android Studio 入门.md)
     * [下载](下载.md)
