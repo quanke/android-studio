@@ -98,8 +98,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 
 这里我把官网上的几个Demo的动图Copy过来：
 
-
-
 ## ![](/image/Chapter03/ConstraintLayout约束/Demo动图1.gif)
 
 ![](/image/Chapter03/ConstraintLayout约束/Demo动图2.gif)
@@ -144,25 +142,39 @@ https:\/\/youtu.be\/sO9aX87hq9c
 
 属性这一块我们就不看了，和大家在XML中写的属性是一样的，只不过这里通过可视化的方式弄出来了，这个之前就有了，我们主要来看下上面的那个界面。
 
+![](/image/Chapter03/ConstraintLayout约束/properties_1.png)
+
 这上面的ID，不多说了，这个盒子四周的线，代表着我们的Margin设置，在工具栏上，还可以设置Margin的基数，对于MD设计风格，这个基数一般是8dp，所以，这里可以选择X8的Margin：
 
+![](/image/Chapter03/ConstraintLayout约束/properties_margin.png)
+
 另外，最外面边框上还有两个带数字的小圆圈，这个就是控制相对位置的比例的，如图：
+
+![](/image/Chapter03/ConstraintLayout约束/控制相对位置的比例demo.gif)
 
 通过这个比例的设置，我们天然就自带了百分比布局。
 
 最后，最难理解的就是盒子里面的那四根线，如图：
 
+![](/image/Chapter03/ConstraintLayout约束/盒子里面的那四根线.png)
+
 这里的四根线，在点击后，会发生变化，总共有以下几种：
 
 ### **Fixed**
+
+![](/image/Chapter03/ConstraintLayout约束/Fixed.png)
 
 这样一个类型的线，可以让你写定具体的大小数值。
 
 ### **Wrap Content**
 
+![](/image/Chapter03/ConstraintLayout约束/Wrap Content.png)
+
 这个就是Wrap Content的含义，包裹内容，没有发生变化。
 
 ### **AnySize**
+
+![](/image/Chapter03/ConstraintLayout约束/AnySize.png)
 
 这个就是最难理解的，它表示组件会占用所有的可用空间来适应约束，类似线性布局中，设置width=0，weight=1的方式。
 
@@ -170,17 +182,19 @@ https:\/\/youtu.be\/sO9aX87hq9c
 
 **7.Align**
 
+![](/image/Chapter03/ConstraintLayout约束/Align.png)
+
 在工具栏中，可以使用对齐工具，快速给选定组件设置对齐约束，如图：
 
 我们可以来演示下：
 
-## 
+## ![](/image/Chapter03/ConstraintLayout约束/Align_demo.gif)
 
 **8.Pack**
 
 在工具栏中，可以使用Pack工具，快速对组件进行编组操作，如图：
 
-## 
+## ![](http://mmbiz.qpic.cn/mmbiz_gif/5micibPI4OJJCNYS3wAycUjHnptF5AOjopTxU5aLgMInpAyqDtBRFDq9OTxSygpWhFnWBZhLDBnUa8ggyoYCnkrw/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 ## 
 
@@ -190,21 +204,25 @@ https:\/\/youtu.be\/sO9aX87hq9c
 
 在这里，可以快速设置组件的居中，对齐等方式。
 
-## 
+## ![](/image/Chapter03/ConstraintLayout约束/创建布局的快捷设计.png)
 
 **10.GuideLine**
 
 为了更加灵活的布局，ConstraintLayout还提供了一个GuideLine，如图所示：
 
+![](/image/Chapter03/ConstraintLayout约束/GuideLine.png)
+
 你可以为布局添加水平和竖直引导线，针对这条线来作为基准线布局，如图所示：
 
-## 
+## ![](/image/Chapter03/ConstraintLayout约束/添加水平和竖直引导线.png)
 
 ## 
 
 **11.ConstraintLayout布局转换**
 
-## 通过Android Studio，我们可以很方便的把一个普通布局转化为ConstraintLayout，在布局设计器的左边栏下面的Component Tree来进行转换，如图所示：
+通过Android Studio，我们可以很方便的把一个普通布局转化为ConstraintLayout，在布局设计器的左边栏下面的Component Tree来进行转换，如图所示：
+
+![](/image/Chapter03/ConstraintLayout约束/ConstraintLayout布局转换.png)
 
 转换还是很赞的，但目前还没试过复杂的布局是否有问题。
 
