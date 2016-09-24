@@ -2,6 +2,7 @@
 
 * [Android Studio 使用艺术 介绍](README.md)
 * [Android Studio 发布版本](android-studio-发布版本.md)
+    * [Android Studio 2.2](android-studio-22.md)
 * [前言](前言.md)
 * [第一章 Android Studio 入门](第一章 Android Studio 入门.md)
     * [下载](下载.md)
