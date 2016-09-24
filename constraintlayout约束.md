@@ -54,8 +54,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 
 我们一一来看。
 
-### 
-
 ### **尺寸约束**
 
 尺寸约束使用的是『实心方块』，如图：
@@ -63,8 +61,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 ![](/image/Chapter03/ConstraintLayout约束/实心方块.png)
 
 这个很好理解，就是调整组件的大小。
-
-### 
 
 ### **边界约束**
 
@@ -74,8 +70,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 
 边界约束，是使用最多的约束，它用于建立组件与组件之间、组件与Parent边界之间的约束关系，实际上，就是确定彼此的相对位置。
 
-### 
-
 ### **基准线约束**
 
 基准线约束，使用的是『空心圆角矩形』，如图：
@@ -83,8 +77,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 ![](/image/Chapter03/ConstraintLayout约束/空心圆角矩形.png)
 
 基准线约束，是让两个带有文本属性的组件进行对齐的，可以让两个组件的文本按照基准线进行对齐。唯一要注意的是，你需要把鼠标放在控件上，等基准线约束的图形亮了，才可以进行拖动。
-
-### 
 
 ### **清除约束**
 
@@ -119,8 +111,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 ![](/image/Chapter03/ConstraintLayout约束/Demo动图6.gif)
 
 这个和PPT里面拖动布局的时候，会弹出对齐的基准线，然后帮你自动居中这些功能类似。实际测试下来，这个功能可以很方便的在拖动组件的时候，帮你写好约束，但有些精确的调整，还是需要手动去创建的。
-
-## 
 
 **5.约束推断Inference**
 
@@ -225,8 +215,6 @@ https:\/\/youtu.be\/sO9aX87hq9c
 ![](/image/Chapter03/ConstraintLayout约束/ConstraintLayout布局转换.png)
 
 转换还是很赞的，但目前还没试过复杂的布局是否有问题。
-
-## 
 
 **12.从代码角度理解ConstraintLayout属性**
 
