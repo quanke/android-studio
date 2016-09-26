@@ -32,6 +32,9 @@
 
 [第四章 管理](https://as.quanke.name/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%A1%E7%90%86.html)
 
+[第十二章 运行调试](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0-%E8%BF%90%E8%A1%8C%E8%B0%83%E8%AF%95.html)
+
+
 已经完成编辑的章节：
 
 [第五章 编辑](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E7%BC%96%E8%BE%91.html)
