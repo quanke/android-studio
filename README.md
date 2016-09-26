@@ -28,7 +28,9 @@
 
 [第二章 新建](https://as.quanke.name/%E6%96%B0%E5%BB%BA.html)
 
+[第三章 布局](https://as.quanke.name/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%B8%83%E5%B1%80.html)
 
+[第四章 管理](https://as.quanke.name/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%A1%E7%90%86.html)
 
 已经完成编辑的章节：
 
