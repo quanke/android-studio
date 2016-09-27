@@ -57,5 +57,67 @@ Success
 
 ```
 
+Launch Option: 启动选项
+1.Launch提供了四个选项.
+
+Default Activity: 启动默认Activity,运行时会启动默认的MainActivity,如果没有会报错。
+
+
+Specified Activity: 指定启动的Activity
+
+在输入框中输入Activity的名字,输入时会有智能联想:
+
+如果记不住名字,还可以搜索:
+
+或在项目结构中查找:
+
+
+定义好启动Activity后,运行应用时这个Activity就会被启动。
+Nothing: 运行时不会启动任何Activity.
+
+URL: 在这里可以指定启动的scheme.
+2.Launch Flags: 给adb shell am 添加运行参数,参数添加在命令的最后面.
+
+Deployment Target Options: 部署目标选项
+
+
+Target:
+Show Device Chooser Dialog：选择此选项,每次运行时都会弹出选择设备对话框。
+
+USB Device: 使用USB连接的设备
+
+Emulator: 使用模拟器.
+
+Use same selection for future launches:
+
+如果勾选此项,以后运行时都使用同样的选择,不需要再次选择了.
+
+
+Miscellaneous:
+
+在这里配置日志和安装选项
+
+
+Logcat:
+
+Show logcat automatically: 运行时自动显示logcat日志。
+
+
+Clear log before launch: 启动前清空日志。
+Installation Options:
+
+Skip installation if APK has not changed： 如果代码没有变更,运行时跳过安装。
+
+
+Force stop running application before launching activity。
+
+启动Activity前强制关闭运行的应用程序.
+
+Debugger:
+
+在这里配置调试类型.
+
+
+
 
 
