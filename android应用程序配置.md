@@ -72,7 +72,6 @@ Specified Activity: 指定启动的Activity
 
 定义好启动Activity后,运行应用时这个Activity就会被启动。
 
-
 Nothing: 运行时不会启动任何Activity.
 
 URL: 在这里可以指定启动的scheme.
@@ -82,7 +81,6 @@ URL: 在这里可以指定启动的scheme.
 Deployment Target Options: 部署目标选项
 
 **Target:**
-
 
 **Show Device Chooser Dialog**：选择此选项,每次运行时都会弹出选择设备对话框。
 
@@ -103,6 +101,8 @@ Use same selection for future launches:
 Show logcat automatically: 运行时自动显示logcat日志。
 
 Clear log before launch: 启动前清空日志。
+
+
 Installation Options:
 
 Skip installation if APK has not changed： 如果代码没有变更,运行时跳过安装。
