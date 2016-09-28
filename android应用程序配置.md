@@ -43,7 +43,6 @@ Success
 
 ```
 
-
 如果添加一个参数-f
 
 ```
@@ -62,7 +61,6 @@ Launch Option: 启动选项
 
 Default Activity: 启动默认Activity,运行时会启动默认的MainActivity,如果没有会报错。
 
-
 Specified Activity: 指定启动的Activity
 
 在输入框中输入Activity的名字,输入时会有智能联想:
@@ -71,7 +69,6 @@ Specified Activity: 指定启动的Activity
 
 或在项目结构中查找:
 
-
 定义好启动Activity后,运行应用时这个Activity就会被启动。
 Nothing: 运行时不会启动任何Activity.
 
@@ -79,7 +76,6 @@ URL: 在这里可以指定启动的scheme.
 2.Launch Flags: 给adb shell am 添加运行参数,参数添加在命令的最后面.
 
 Deployment Target Options: 部署目标选项
-
 
 Target:
 Show Device Chooser Dialog：选择此选项,每次运行时都会弹出选择设备对话框。
@@ -92,22 +88,18 @@ Use same selection for future launches:
 
 如果勾选此项,以后运行时都使用同样的选择,不需要再次选择了.
 
-
 Miscellaneous:
 
 在这里配置日志和安装选项
-
 
 Logcat:
 
 Show logcat automatically: 运行时自动显示logcat日志。
 
-
 Clear log before launch: 启动前清空日志。
 Installation Options:
 
 Skip installation if APK has not changed： 如果代码没有变更,运行时跳过安装。
-
 
 Force stop running application before launching activity。
 
@@ -117,7 +109,19 @@ Debugger:
 
 在这里配置调试类型.
 
+Debug类型包括: Java、Native、Hybrid.Profiling:在这里配置图形跟踪选项.
 
+disable precompiled shaders and programs: 禁用预编译着色器和程序.
+
+Before launch:
+
+在这里可以配置运行之前需要执行的任务,默认会执行Make.
+
+添加任务
+
+点击+添加一个新的任务:
+
+![](/image/Chapter12/Android 应用程序配置/新的任务.png)
 
 
 
