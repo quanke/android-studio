@@ -102,8 +102,7 @@ Show logcat automatically: 运行时自动显示logcat日志。
 
 Clear log before launch: 启动前清空日志。
 
-
-Installation Options:
+**Installation Options:**
 
 Skip installation if APK has not changed： 如果代码没有变更,运行时跳过安装。
 
@@ -111,7 +110,7 @@ Force stop running application before launching activity。
 
 启动Activity前强制关闭运行的应用程序.
 
-Debugger:
+**Debugger:**
 
 在这里配置调试类型.
 
@@ -119,11 +118,11 @@ Debug类型包括: Java、Native、Hybrid.Profiling:在这里配置图形跟踪�
 
 disable precompiled shaders and programs: 禁用预编译着色器和程序.
 
-Before launch:
+**Before launch:**
 
 在这里可以配置运行之前需要执行的任务,默认会执行Make.
 
-添加任务
+### **添加任务**
 
 点击+添加一个新的任务:
 
