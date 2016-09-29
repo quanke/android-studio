@@ -38,8 +38,6 @@
 
 [第十三章 工具](https://as.quanke.name/%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E6%A3%80%E6%9F%A5.html)
 
-[第十四章 版本控制](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.html)
-
 [第十五章 偏好设置](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0-%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE.html)
 
 [第十七章 帮助](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0-%E5%B8%AE%E5%8A%A9.html)
