@@ -12,13 +12,13 @@
 
 交流群：`104848238`
 
-阅读地址： [https://as.quanke.name/](https://as.quanke.name/)
+阅读地址： [https:\/\/as.quanke.name\/](https://as.quanke.name/)
 
-下载地址： [https://www.gitbook.com/book/quanke/android-studio/details](https://www.gitbook.com/book/quanke/android-studio/details)
+下载地址： [https:\/\/www.gitbook.com\/book\/quanke\/android-studio\/details](https://www.gitbook.com/book/quanke/android-studio/details)
 
-协作地址： [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio)
+协作地址： [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio)
 
-我是全科，欢迎关注我的博客 [http://quanke.name](http://quanke.name)
+我是全科，欢迎关注我的博客 [http:\/\/quanke.name](http://quanke.name)
 
 > 此书不一定是按顺序编写
 
@@ -32,8 +32,6 @@
 
 [第四章 管理](https://as.quanke.name/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E7%AE%A1%E7%90%86.html)
 
-[第十二章 运行调试](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0-%E8%BF%90%E8%A1%8C%E8%B0%83%E8%AF%95.html)
-
 
 已经完成编辑的章节：
 
@@ -46,6 +44,8 @@
 [第十章 重构](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E7%AB%A0-%E9%87%8D%E6%9E%84.html)
 
 [第十一章-打包构建](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-%E6%89%93%E5%8C%85%E6%9E%84%E5%BB%BA.html)
+
+[第十二章 运行调试](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0-%E8%BF%90%E8%A1%8C%E8%B0%83%E8%AF%95.html)
 
 [第十四章 版本控制](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.html)
 
