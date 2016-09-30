@@ -24,15 +24,15 @@
 
 新建系统变量JAVA\_HOME —&gt; 变量值为刚才安装的JDK的路径
 
-在系统变量path中添加 %JAVA\_HOME%\bin
+在系统变量`path`中添加 `%JAVA_HOME%\bin`
 
-新建系统变量CLASS\_PATH —&gt; 添加变量值 %JAVA\_HOME%\lib\dt.jar;%JAVA\_HOME%\lib\tools.jar;
+新建系统变量`CLASS_PATH` —&gt; 添加变量值` %JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;`
 
-注意：如果 CLASS\_PATH 或者 path 中有其他配置，请在后面增加 `;` 再增加我们需要的内容，尤其是CLASS\_PATH 需要注意
+注意：如果 `CLASS_PATH `或者 `path `中有其他配置，请在后面增加 `;` 再增加我们需要的内容，尤其是CLASS\_PATH 需要注意
 
 到此为止环境变量配置完毕,下面来验证下是否配置成功.
 
-终端输入javac,如果显示帮助信息就证明配置正确了.
+终端输入`javac`,如果显示帮助信息就证明配置正确了.
 
 ```
 
@@ -106,8 +106,6 @@ C:\Users\yurong>javac
  -Werror 出现警告时终止编译
 
  @<文件名> 从文件读取选项和文件名
-
-
 
 ```
 
