@@ -115,9 +115,15 @@ C:\Users\yurong>javac
 
 你可以到这里http:\/\/developer.android.com\/sdk\/index.html下载可执行文件进行安装.
 
-
-
 也可以到这里下载最近的beta版本http:\/\/tools.android.com\/recent试用,beta版本不用安装,可以多个版本一起使用。
+
+
+
+## 启动Android Studio
+
+
+
+下载完成后 —&gt; 解压 —&gt; 进入到android\/bin目录 —&gt; 双击studio64\(如果操作系统是32位 双击 studio\)启动Android Studio.
 
 
 
