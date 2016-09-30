@@ -25,7 +25,7 @@
     * [创建service文件](创建service文件.md)
     * [创建自定义组件](创建自定义组件.md)
     * [创建app widget](创建app-widget.md)
-    * [创建可编译的资源文件](创建可以资源文件.md)
+    * [创建可编译的资源文件](创建可编译的资源文件.md)
     * [创建AIDL](创建aidl.md)
     * [创建Android文件夹](创建android文件夹.md)
     * 将Android Library打包成aar
