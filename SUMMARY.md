@@ -28,7 +28,6 @@
     * [创建可编译的资源文件](创建可编译的资源文件.md)
     * [创建AIDL](创建aidl.md)
     * [创建Android文件夹](创建android文件夹.md)
-    * 将Android Library打包成aar
 * [第三章 布局](第三章-布局.md)
     * [认识布局](认识布局.md)
     * [组件列表](组件列表.md)
