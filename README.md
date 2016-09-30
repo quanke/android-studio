@@ -12,19 +12,17 @@
 
 交流群：`104848238`
 
-阅读地址： [https://as.quanke.name/](https://as.quanke.name/)
+阅读地址： [https:\/\/as.quanke.name\/](https://as.quanke.name/)
 
-下载地址： [https://www.gitbook.com/book/quanke/android-studio/details](https://www.gitbook.com/book/quanke/android-studio/details)
+下载地址： [https:\/\/www.gitbook.com\/book\/quanke\/android-studio\/details](https://www.gitbook.com/book/quanke/android-studio/details)
 
-协作地址： [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio)
+协作地址： [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio)
 
-我是全科，欢迎关注我的博客 [http://quanke.name](http://quanke.name)
+我是全科，欢迎关注我的博客 [http:\/\/quanke.name](http://quanke.name)
 
 > 此书不一定是按顺序编写
 
 **现在正在编辑的章节 ：**
-
-[第一章 Android Studio 入门](https://as.quanke.name/%E7%AC%AC%E4%B8%80%E7%AB%A0%20Android%20Studio%20%E5%85%A5%E9%97%A8.html)
 
 [第二章 新建](https://as.quanke.name/%E6%96%B0%E5%BB%BA.html)
 
@@ -43,6 +41,8 @@
 [第十七章 帮助](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0-%E5%B8%AE%E5%8A%A9.html)
 
 **已经完成编辑的章节：**
+
+[第一章 Android Studio 入门](https://as.quanke.name/%E7%AC%AC%E4%B8%80%E7%AB%A0%20Android%20Studio%20%E5%85%A5%E9%97%A8.html)
 
 [第五章 编辑](https://quanke.gitbooks.io/android-studio/content/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E7%BC%96%E8%BE%91.html)
 
