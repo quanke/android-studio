@@ -47,8 +47,8 @@ export CLASSPATH
 
 export PATH 
 ```
-保存后去执行下面的命令，更新成功
 
+保存后去执行下面的命令，更新成功
 
 ```
 source .bash_profile
@@ -60,6 +60,37 @@ java -version
 
 ## 配置Android Studio
 
+1.下载Android SDK
+
+到[http:\/\/developer.android.com\/sdk\/index.html下载独立的Android](http://developer.android.com/sdk/index.html下载独立的Android) SDK安装包.
+
+我下载的是android-sdk\_r24.4.1-macosx.zip.
+
+2.解压安装包
+
+下载完成后解压,放到你指定的目录
 
 ## 配置Android的环境变量
+
+vim ~\/.bash\_profile把下面这些环境变量加进去
+
+```
+
+export ANDROID\_HOME=SDK路径
+
+
+
+export PATH=$ANDROID\_HOME\/platform-tools:$ANDROID\_HOME\/tools:$PATH
+
+```
+
+4.测试一下
+
+命令行输入：
+
+```
+
+adb
+
+```
 
