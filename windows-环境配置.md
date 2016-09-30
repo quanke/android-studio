@@ -28,9 +28,9 @@
 
 新建系统变量CLASS\_PATH —&gt; 添加变量值 %JAVA\_HOME%\lib\dt.jar;%JAVA\_HOME%\lib\tools.jar;
 
+注意：如果 CLASS\_PATH 或者 path 中有其他配置，请在后面增加`;`
+
 到此为止环境变量配置完毕,下面来验证下是否配置成功.
-
-
 
 终端输入javac,如果显示帮助信息就证明配置正确了.
 
