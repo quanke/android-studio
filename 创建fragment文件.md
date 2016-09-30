@@ -12,7 +12,11 @@
 
 如何使用Android Studio提供的模板快速创建Fragment及其所用到的布局文件呢？
 
-操作步骤:
+### 操作步骤:
 
 菜单栏: File —&gt; New —&gt; Fragment
+
+
+
+
 
