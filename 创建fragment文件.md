@@ -18,5 +18,9 @@
 
 
 
+Fragment\(Blank\):创建一个空白的Fragment
 
+Fragment\(List\):创建一个空的Fragment,它包含一个网格列表.
+
+Fragment\(with a + 1 button\):创建一个带有Google Plus +1按钮的Fragment
 
