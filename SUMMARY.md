@@ -15,6 +15,7 @@
     * [创建项目](创建项目.md)
     * [创建模块](创建模块.md)
     * [创建库](创建库.md)
+    * [将Android Library打包成aar](将android-library打包成aar.md)
     * [导入Android Studio项目](导入android-studio项目.md)
     * [导入eclipse项目](导入eclipse项目.md)
     * [导入Jar\/AAR](导入jaraar.md)
@@ -27,7 +28,7 @@
     * [创建可以资源文件](创建可以资源文件.md)
     * [创建AIDL](创建aidl.md)
     * [创建Android文件夹](创建android文件夹.md)
-    * [创建矢量图](创建矢量图.md)
+    * 将Android Library打包成aar
 * [第三章 布局](第三章-布局.md)
     * [认识布局](认识布局.md)
     * [组件列表](组件列表.md)
