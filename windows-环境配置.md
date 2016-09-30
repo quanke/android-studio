@@ -117,15 +117,51 @@ C:\Users\yurong>javac
 
 也可以到这里下载最近的beta版本http:\/\/tools.android.com\/recent试用,beta版本不用安装,可以多个版本一起使用。
 
-
-
 ## 启动Android Studio
 
+下载完成后 —&gt; 解压 —&gt; 进入到android\/bin目录 —&gt; 双击studio64\(如果操作系统是32位 双击 studio\)启动Android Studio。
+
+如果你想导入原来的设置,选中上面的复选框,如果不想就选上下面的复选框.
+
+接下来就一步一步按照提示往下安装.
+
+安装过程中会安装SDK和一些组件,请注意一下SDK的安装位置,如果你要在终端直接使用android命令还需要配置ANDROID的环境变量.
+
+下载完成后就可以正常启动Android Studio啦.
 
 
-下载完成后 —&gt; 解压 —&gt; 进入到android\/bin目录 —&gt; 双击studio64\(如果操作系统是32位 双击 studio\)启动Android Studio.
 
 
 
 ## 配置Android的环境变量
+
+
+
+如果我们想直接使用android提供的一些工具,就需要配置环境变量.
+
+打开我们下载好的sdk目录,看一下里面的目录结构,有很多工具可供我们使用。
+
+
+
+![](/image/Chapter01/Windows 环境配置/SDK目录.png)
+
+接下来我们配置下环境变量.
+
+右击计算机 —&gt; 属性 —&gt; 高级系统设置 —&gt; 环境变量 —&gt; 新建系统变量ANDROID\_HOME —&gt; 变量值为刚才安装的SDK的路径
+
+接下来在path中添加Android sdk和Android工具的路径
+
+![](/image/Chapter01/Windows 环境配置/Android Home.png)
+
+完成后验证一下是否配置的正确。
+
+
+
+![](/image/Chapter01/Windows 环境配置/adb shell.png)
+
+只要不报adb不是内部命令就是配置成功啦。
+
+> 如果还有任何问题请留言
+
+
 
