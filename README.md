@@ -12,13 +12,13 @@
 
 交流群：`104848238`
 
-阅读地址： [https:\/\/as.quanke.name\/](https://as.quanke.name/)
+阅读地址： [https://as.quanke.name/](https://as.quanke.name/)
 
-下载地址： [https:\/\/www.gitbook.com\/book\/quanke\/android-studio\/details](https://www.gitbook.com/book/quanke/android-studio/details)
+下载地址： [https://www.gitbook.com/book/quanke/android-studio/details](https://www.gitbook.com/book/quanke/android-studio/details)
 
-协作地址： [https:\/\/github.com\/quanke\/android-studio](https://github.com/quanke/android-studio)
+协作地址： [https://github.com/quanke/android-studio](https://github.com/quanke/android-studio)
 
-我是全科，欢迎关注我的博客 [http:\/\/quanke.name](http://quanke.name)
+我是全科，欢迎关注我的博客 [http://quanke.name](http://quanke.name)
 
 > 此书不一定是按顺序编写
 
@@ -41,7 +41,6 @@
 [第十五章 偏好设置](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%BA%94%E7%AB%A0-%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE.html)
 
 [第十七章 帮助](https://as.quanke.name/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0-%E5%B8%AE%E5%8A%A9.html)
-
 
 **已经完成编辑的章节：**
 
