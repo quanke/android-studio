@@ -41,15 +41,18 @@ JAVA_HOME=/opt/java/jdk1.8.0_45 ”这个是我遇到第二个问题，不知道
 
 ### 配置Android Studio
 
-sudo mv android-studio-bundle-130.677228-linux.tgz /opt/ ”"我直接用的文档管理器解压再挪过去的
+```
+sudo mv android-studio-bundle-130.677228-linux.tgz /opt/ ”" //我直接用的文档管理器解压再挪过去的
 
 sudo tar zxvf android-studio-bundle-130.677228-linux.tgz
+```
 
-可以将目录改成你喜欢的名字：sudo mv /opt/and... /opt/android-studio
+可以将目录改成你喜欢的名字：`sudo mv /opt/and... /opt/android-studio`
 
+```
 cd /opt/android-studio/bin
 
 ls
 
 sudo studio.sh
-
+```
