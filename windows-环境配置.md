@@ -26,9 +26,9 @@
 
 在系统变量`path`中添加 `%JAVA_HOME%\bin`
 
-新建系统变量`CLASS_PATH` —&gt; 添加变量值` %JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;`
+新建系统变量`CLASS_PATH` —&gt; 添加变量值`%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;`
 
-注意：如果 `CLASS_PATH `或者 `path `中有其他配置，请在后面增加 `;` 再增加我们需要的内容，尤其是CLASS\_PATH 需要注意
+注意：如果 `CLASS_PATH`或者 `path`中有其他配置，请在后面增加 `;` 再增加我们需要的内容，尤其是CLASS\_PATH 需要注意
 
 到此为止环境变量配置完毕,下面来验证下是否配置成功.
 
@@ -110,6 +110,16 @@ C:\Users\yurong>javac
 ```
 
 ## 配置Android Studio
+
+**下载Android Studio**
+
+你可以到这里http:\/\/developer.android.com\/sdk\/index.html下载可执行文件进行安装.
+
+
+
+也可以到这里下载最近的beta版本http:\/\/tools.android.com\/recent试用,beta版本不用安装,可以多个版本一起使用。
+
+
 
 ## 配置Android的环境变量
 
