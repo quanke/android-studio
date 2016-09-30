@@ -16,11 +16,40 @@
 
 菜单栏: File —&gt; New —&gt; Fragment
 
-
-
 Fragment\(Blank\):创建一个空白的Fragment
 
 Fragment\(List\):创建一个空的Fragment,它包含一个网格列表.
 
 Fragment\(with a + 1 button\):创建一个带有Google Plus +1按钮的Fragment
+
+
+
+## 创建一个空白的Fragment
+
+
+
+点击 【Fragment\(Blank\)】—&gt; 然后弹出【New Android Component】界面;
+
+
+
+
+
+* FragmentName: 自定义的Fragment类名, 会继承Fragment. 本例中为BlankFragment.
+
+* Create Layout XML?: 如果勾选,会同时创建BlankFragment类对应的布局文件,并在BlankFragment类中自动添加加载该布局文件的代码.
+
+* Fragment Layout Name: BlankFragment类对应的布局文件名,会根据类名自动生成,可自定义.
+
+* Include fragment factory methods?: 如果勾选,会在BlankFragment类中生成工厂方法.
+
+* Include interface callback?: 如果勾选,会在BlankFragment类中生成回调接口.
+
+
+## 
+
+创建一个Fragment\(List\)
+
+
+
+点击 【Fragment\(List\)】—&gt; 然后弹出【New Android Component】界面:
 
